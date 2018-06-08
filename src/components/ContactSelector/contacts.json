@@ -1,0 +1,36 @@
+{
+    "contacts": [
+        {
+            "id": "0",
+            "key": "contacts",
+            "name": "Chuck",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHl2HvjHXWBeOCjEaLe08CClTiq3Ffnsh9atpJSrmCMsofV8l",
+            "email": "chuck@gmail.com",
+            "selected": false
+        },
+        {
+            "id": "1",
+            "key": "contacts",
+            "name": "Donald",
+            "image": "https://d3tagfjj1pibwj.cloudfront.net/wp-content/uploads/profile_builder/avatars/userID_2734166_originalAvatar_trump-200x200.png",
+            "email": "donald@gmail.com",
+            "selected": false
+        },
+        {
+            "id": "2",
+            "key": "contacts",
+            "name": "Jack",
+            "image": "https://irecommend.img.c1.r-99.com/sites/default/files/imagecache/200i/user-images/9218/vlcsnap-2012-12-01-13h45m13s217.jpg",
+            "email": "jack@gmail.com",
+            "selected": false
+        },
+        {
+            "id": "3",
+            "key": "contacts",
+            "name": "Dart",
+            "image": "https://media1.popsugar-assets.com/files/thumbor/5Hkqjqxm61eECMmtaHUh6AqkJkQ/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2011/02/06/1/192/1922507/033512fafe8a11bf_DarthVaderThumb/i/Who-Star-Wars-Volkswagen-Darth-Vader.jpg",
+            "email": "dart@gmail.com",
+            "selected": false
+        }
+    ]
+}
